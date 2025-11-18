@@ -96,7 +96,9 @@ cargo build -p nanonis-plot
 ```
 
 ### Run example
+```bash
 cargo run -p nanonis-plot --example semilogy_plot <file.dat>
+```
 
 ### Future Plans
 
