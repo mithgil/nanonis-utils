@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "nanonis-parse",
+    "nanonis-plot",
+]
+resolver = "2"
