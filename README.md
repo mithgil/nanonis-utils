@@ -13,6 +13,7 @@ provides a simple workflow from data → plot.
 ---
 
 ## Workspace Structure
+```text
 .
 ├── Cargo.toml # Workspace root
 ├── README.md # This file
@@ -30,7 +31,7 @@ provides a simple workflow from data → plot.
 │ └── semilogy_plot.rs # Example plot script
 
 └── target/ # Workspace build artifacts
-
+```
 
 ---
 
